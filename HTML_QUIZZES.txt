@@ -1,0 +1,402 @@
+
+HTML Quizzes
+
+==============XXX Set-1 XXX=================
+
+1/5
+
+What does SVG stand for?
+a) Scalable Vector Graphics (answer)
+b) Simple Vector Graphics
+c) Structured Vector Graphics
+
+
+2/5
+Which tag is used to define an image in HTML?
+a) <picture>
+b) <image>
+c) <img> (answer)
+
+3/5
+Which tag is used to create a hyperlink in HTML?
+a) <link>
+b) <a> ( answer )
+c) <href>
+
+4/5
+Which HTML element is used to define important text?
+a) <bold>
+b) <strong> (answer)
+c) <em>
+
+5/5
+What is the correct HTML element for the largest heading?
+a) <h1> (answer)
+b) <heading>
+c) <head>
+
+=================xxxx end of Set- 1 xxxx===============
+=============xxxxx Set-2 xxxxxx===============
+
+1/5
+Which HTML tag is used to define the body of the document?
+a) <main> 
+b) <content>
+c) <body>(answer)
+
+
+2/5
+
+Which attribute of the <circle> element defines the radius of the circle?
+a) size
+b) radius
+c) r (answer)
+
+
+
+3/5
+Which tag is used to create a drop-down list in HTML?
+a) <dropdown>
+b) <select> ( answer )
+c) <list>
+
+
+4/5
+Which attribute is used to specify that an input field must be filled out?
+a) placeholder
+b) required ( answer )
+c) validate
+
+
+5/5
+Which input type is used for submitting a form?
+a) submit (answer)
+b) button
+c) send
+
+=================xxxx end of Set- 2 xxxx===============
+
+==============xxx Set-3 xxx==================
+
+
+1/5
+Which tag is used to create an unordered list in HTML?
+a) <ul> ( answer )
+b) <ol>
+c) <list>
+
+2/5
+What is the correct HTML for creating a table?
+a) <table> ( answer )
+b) <tab>
+c) <tbl>
+
+3/5
+
+Which attribute of the <svg> element defines the area in which SVG graphics are visible?
+a) viewBox (answer)
+b) viewArea
+c) displayArea
+
+
+
+4/5
+
+Which attribute of the <video> element enables the default video controls (play, pause, volume, etc.)?
+a) controls (answer)
+b) play-controls
+c) video-controls
+
+
+
+
+5/5
+
+How can you specify a minimum and maximum value for a number input field?
+a) range attribute
+b) limit attribute
+c) min and max attributes (answer)
+
+=================xxxx end of Set- 3 xxxx===============
+
+====================xx Set-4 xxx========================
+
+1/5
+Which HTML tag is used to create a description list?
+a) <dt>
+b) <dl> (answer )
+c) <ol>
+
+2/5
+What is the default type of an ordered list?
+a) Roman numeral
+b) Decimal (answer ) 
+c) Alphabetical
+
+3/5
+Which attribute is used to make a cell span multiple columns in HTML?
+a) rowspan
+b) span
+c) colspan (colspan)
+
+4/5
+Which HTML element is used to provide a title or caption for a table?
+a) <title>
+b) <header>
+c) <caption> (answer)
+
+5/5
+Which HTML element is used to define a header cell in a table?
+a) <thead>
+b) <th>
+c) <td>
+=================xxxx end of Set-4 xxxx===============
+================xxx Set-5 xxx=====================
+
+1/5
+Which input type creates a text field in a form?
+a) text (answer)
+b) textbox
+c) string
+
+
+2/5
+
+What attribute is used to provide a hint to the user about what can be entered into an input field?
+a) hint
+b) placeholder (answer)
+c) hint-text
+
+3/5
+Which attribute of the <video> element automatically starts playback of the video when the page loads?
+a) autoplay (answer)
+b) start
+c) play
+
+
+
+4/5
+Which HTML element is used to create a button that clears all input fields in a form?
+a) <input type="reset"> (answer )
+b) <clear>
+c) <button type="reset">
+
+
+5/5
+
+Which attribute of the <form> element defines how form data should be submitted?
+a) action
+b) method (answer)
+c) type
+
+=================xxxx end of Set-4 xxxx===============
+=======================xxx Set-5 xxxx==============
+
+1/5
+Which input type allows users to select only one option from a list?
+a) checkbox
+b) radio (answer)
+c) select
+
+2/5
+
+Which HTML element is used to create a dropdown list in a form?
+a) <input type="dropdown">
+b) <select> (answer )
+c) <dropdown>
+
+3/5
+
+How can you specify the server-side script that will process the form data upon submission?
+a) action attribute ( answer )
+b) method attribute
+c) submit() function
+
+4/5
+
+Which HTML element is used to create a form?
+a) <div> 
+b) <input>
+c) <form>(answer )
+
+5/5
+
+Which video format is widely supported across different web browsers?
+a) MP4 ( answer )
+b) AVI
+c) MOV
+
+=================xxxx end of Set- 5 xxxx===============
+=================xxx  Set-6 xxx ============
+
+1/5
+Which attribute of the <video> element allows users to view the video in fullscreen mode?
+a) fullscreen
+b) allowfullscreen (answer)
+c) fullscreen-mode
+
+2/5
+Which attribute of the <video> element causes the video to start over from the beginning when it reaches the end?
+a) loop (answer)
+b) repeat
+c) restart
+
+3/5
+Which attribute of an input element can be used to specify a pattern that the input's value must match?
+a) match
+b) validate
+c) pattern (answer)
+
+4/5
+What is the correct HTML for making a text input field?
+a) <input type="text"> ( answer )
+b) <textinput>
+c) <textbox>
+
+
+5/5
+
+What is the correct HTML for creating a table row?
+a) <row>
+b) <tr> (answer )
+c) <table-row>
+=================xxxx End of Set- 6 xxxx===============
+==================xxxx Set-7 xxxx==============
+
+1/5
+What is the purpose of the <path> element in SVG?
+a) To create a square shape
+b) To define a path for a shape (answer)
+c) To include an external image
+
+2/5
+Which tag is used to create a new paragraph in HTML?
+a) <para> 
+b) <br>
+c) <p>( answer)
+
+3/5
+Which input type is used for a date picker?
+a) calendar 
+b) time
+c) date (answer)
+
+4/5
+
+What attribute of the <a> element specifies the URL of the page the link goes to?
+a) href ( answer )
+b) src
+c) link
+
+5/5
+What is the protocol used to create an email link in HTML?
+a) email:
+b) mailto: ( answer)
+c) emailto:
+=================xxxx end of Set- 7 xxxx===============
+=================xxxx Set- 8 xxxx===============
+1/5
+How do you create a link to an external website in HTML?
+a) <a src="http://example.com">Example</a>
+b) <a href="http://example.com">Example</a> (answer )
+c) <a link="http://example.com">Example</a>
+
+2/5
+Which attribute of the <a> element specifies where to open the linked document?
+a) target (answer)
+b) open
+c) href
+
+3/5
+Which unit of measurement in HTML represents a single dot on a screen?
+a) em
+b) rem
+c) px (answer)
+
+4/5
+Which size unit in HTML is relative to the font-size of the parent element?
+a) px
+b) em (answer)
+c) rem
+
+5/5
+
+Which unit in HTML represents a percentage of the viewport height?
+a) vh (answerr)
+b) px
+c) em
+
+====================xx end of Set-8 xx================
+
+====================xx Set-9 xx================
+1/5
+Which HTML size unit is commonly used to define text size?
+a) px
+b) em (answer)
+c) rem
+
+2/5
+Which CSS declaration sets the font size to be 5% of the viewport width?
+a) font-size: 5vw; (answer )
+b) font-size: 5vh;
+c) font-size: 5%;
+
+3/5
+What is the complementary color of #00FF00?
+
+a) #0000FF
+b) #FFFF00
+c) #FF00FF (answer)
+
+4/5
+
+How do you create a grayscale color using RGB values?
+a) Set all RGB values to the same number (answer)
+b) Set the R, G, and B values to 255
+c) Set the R, G, and B values to 0
+
+5/5
+What does the "S" in HSL stand for?
+a) Saturation
+b) Shade
+c) Strength
+
+=================xxx End of Set-9 xxx===============
+
+=================xxx  Set-10 xxx===============
+
+1/5
+Which HTML color name represents the color value #FF0000?
+a) red (answer)
+b) blue
+c) green
+
+
+2/5
+Which of the following is a valid HTML color name?
+a) #f00f00
+b) teal (answer)
+c) #123456
+
+3/5
+How many characters are there in a hexadecimal color code?
+a) 3
+b) 4
+c) 6 (answer)
+
+4/5
+In RGB color model, what do the initials "RGB" stand for?
+a) Red, Green, Blue (answer)
+b) Royal, Green, Brown
+c) Red, Gold, Blue
+
+5/5
+How do you create a link to a downloadable file in HTML?
+a) <a link="file.txt">Download</a>
+b) <a href="file.txt">Download</a> (answer)
+c) <a src="file.txt">Download</a>
+
+Answer: a) <a href="file.txt">Download</a>
+
+====================xx end of set-10 xxx===============
+
