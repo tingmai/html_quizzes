@@ -1,0 +1,799 @@
+
+JavaScript Quizzes
+
+==============XXX Set-1 XXX=================
+
+1/5
+Can you re-declare a variable using the let keyword?
+a) Yes
+b) No  (answer )
+c) Only in strict mode
+
+2/5
+What is the default response type of a Fetch API request?
+
+a) JSON
+b) Text (answer)
+c) Blob
+
+
+
+3/5
+What happens if you declare a variable without initializing it?
+a) An error is thrown
+b) The variable is assigned to null
+c) The variable is assigned to undefined (answer)
+
+4/5
+Which variable declaration is not hoisted?
+
+a) var
+b) let (answer)
+c) const
+
+
+5/5
+Which of the following is not a valid JavaScript variable name?
+
+a) myVariable
+b) 1variable ( answer)
+c) _variable
+
+
+==============XXX end of Set-1 XXX=================
+
+==============XXX Set-2 XXX=================
+
+1/5
+
+In JavaScript, where are global variables defined?
+
+a) Inside a function
+b) Outside of any function (answer)
+c) Only within conditional statements
+
+
+2/5
+How many operands does the ternary operator take?
+a) 1
+b) 2
+c) 3 (answer)
+
+3/5
+What statement is executed if none of the cases in a switch statement match the expression?
+a) default (answer)
+b) else
+c) else if
+
+4/5
+Which statement is used to check multiple conditions in a more efficient way than if-else statements?
+
+a) switch (answer)
+b) case
+c) default
+
+
+5/5
+How do you denote the beginning and end of a block of code in a nested if statement?
+
+a) { } (answer)
+b) [ ]
+c) ( )
+
+==============XXX end of Set-2 XXX=================
+
+
+==============XXX Set-3 XXX=================
+
+1/5
+
+How do you handle errors in a Promise chain?
+
+a) Using the .then() method
+b) Using the .catch() method (answer)
+c) Using the .finally() method
+
+
+
+2/5
+What is the maximum depth of nesting allowed in JavaScript?
+
+a) 5
+b) 10
+c) no specific limit (answer)
+
+3/5
+What is another name for the ternary operator in JavaScript?
+
+a) Conditional operator (answer)
+b) Binary operator
+c) Unary operator
+
+4/5
+How do you increment a loop variable in a for loop?
+
+a) i = i++
+b) i++ (answer)
+c) i = i + 1
+
+
+5/5
+
+Which statement is used to skip the current iteration in a loop and continue with the next iteration?
+
+a) skip
+b) break
+c) continue
+
+==============XXX end of Set-3 XXX=================
+
+==============XXX Set-4 XXX=================
+
+1/5
+
+What is the complexity of a nested loop with m iterations in the outer loop and n iterations in the inner loop?
+
+a) O(m + n)
+b) O(m * n) (answer)
+c) O(m / n)
+
+
+2/5
+What is the index of the first element in an array?
+
+a) 0 (answer)
+b) 1
+c) -1
+
+3/5
+
+What is the pattern for iterating over an array in JavaScript?
+
+a) for (var i = 0; i < array.length; i++) (answer)
+b) for (var i = 1; i <= array.length; i++)
+c) for (var i = array.length; i >= 0; i--)
+
+4/5
+
+How do you iterate over the elements of an array in reverse order?
+
+
+a) Use a while loop
+b) Use the reverse() method
+c) Start the loop from the last index and decrement (answer)
+
+
+5/5
+
+How do you declare an empty array in JavaScript?
+
+a) var myArray = []; (answer)
+b) var myArray = {};
+c) var myArray = "";
+
+==============XXX end of Set-4 XXX=================
+
+==============XXX Set-5 XXX=================
+
+1/5
+
+Which of the following correctly initializes an array with elements?
+a) var myArray = {1, 2, 3};
+b) var myArray = (1, 2, 3);
+c) var myArray = [1, 2, 3]; (answer)
+
+2/5
+How do you access the first element of an array named myArray?
+
+a) myArray[0] (answer)
+b) myArray[1]
+c) myArray.first()
+
+3/5
+Which method adds one or more elements to the end of an array and returns the new length of the array?
+
+a) pop()
+b) push() (answer)
+c) shift()
+
+
+4/5
+
+How do you determine the number of elements in an array named myArray?
+
+a) myArray.length (answer)
+b) myArray.size
+c) myArray.count
+
+5/5
+Which method iterates over each element of an array?
+
+a) map()
+b) filter()
+c) forEach() (answer)
+
+==============XXX end of Set-5 XXX=================
+
+==============XXX Set-6 XXX=================
+
+1/5
+Which keyword is used to declare an asynchronous function in JavaScript?
+
+a) async (answer) 
+b) await
+c) async-await
+
+
+
+2/5
+Which method joins two or more arrays and returns a new array?
+
+a) join()
+b) push()
+c) concat() (answer)
+
+
+3/5
+How do you split a string str into an array of words using whitespace as the separator?
+
+a) str.split(" ") (answer)
+b) str.split("")
+c) str.split()
+
+
+
+4/5
+
+Which method adds one or more elements to the beginning of an array and returns the new length of the array?
+
+a) shift()
+b) unshift() (answer)
+c) push()
+
+5/5
+How do you remove elements from an array without mutating the original array?
+
+a) splice()
+b) slice() (answer)
+c) pop()
+
+==============XXX end of Set-6 XXX=================
+
+
+==============XXX Set-7 XXX=================
+
+1/5
+What is the keyword used to call a function in JavaScript?
+
+a) execute
+b) call  ( answer )
+c) return
+
+
+
+2/5
+
+Can you define default parameter values in JavaScript functions?
+
+a) Yes (answer)
+b) No
+c) Only for arrow functions
+
+3/5
+What is the correct syntax for calling a function named myFunction?
+
+a) call myFunction();
+b) myFunction();  (answer)
+c) execute myFunction();
+
+4/5
+
+What happens if a function does not explicitly return a value?
+
+a) It returns undefined (answer)
+b) It throws an error
+c) It returns null
+
+5/5
+
+What is the syntax for an arrow function in JavaScript?
+
+a) function(params) { }
+b) function => { }
+c) (params) => { } (answer)
+
+
+==============XXX end of Set-7 XXX=================v
+
+
+==============XXX Set-8 XXX=================
+
+1/5
+Can arrow functions be used as constructors?
+
+a) Yes
+b) No (answer)
+c) Only with a special syntax
+
+
+2/5
+Can private class members be accessed outside the class?
+
+a) Yes
+b) No (answer)
+c) Only by subclasses
+
+
+3/5
+Which keyword is used to define a private class member?
+
+a) protected
+b) public
+c) private (answer)
+
+
+4/5
+What value does the instanceof operator return if the object is an instance of the specified class?
+
+a) true (answer)
+b) false
+c) null
+
+
+5/5
+
+How do you create a Promise in JavaScript?
+
+a) Using the new Promise() constructor
+b) Using the Promise.resolve() method
+c) All the answers above (answer)
+
+
+
+
+==============XXX end of Set-8 XXX=================v
+
+==============XXX Set-9 XXX=================
+
+1/5
+Which operator is used to check for equality in JavaScript?
+
+a) ==
+b) =
+c) === (answer)
+
+
+2/5
+How do you chain promises in JavaScript?
+
+a) Using the .then() method
+b) Using the .catch() method
+c) All the answers above  ( answer)
+
+
+3/5
+How do you access the last element of an array named myArray?
+
+a) myArray[-1]
+b) myArray[length - 1] (answer)
+c) myArray[last]
+
+
+
+4/5
+
+In which state is a Promise considered settled?
+
+a) Pending
+b) Resolved (Fulfilled) or Rejected (answer)
+c) Waiting
+
+
+5/5
+Can the super keyword be used outside of a subclass?
+
+a) Yes
+b) No (answer)
+c) Only with strict mode enabled
+
+
+==============XXX end of Set-9 XXX=================
+
+==============XXX Set-10 XXX=================
+
+1/5
+What does the indexOf() method return if the specified element is not found in the array?
+
+a) -1 (answer)
+b) 0
+c) undefined
+
+
+
+2/5
+How do you handle errors in async-await functions?
+
+a) Using if-else statements
+b) Using switch statements
+c) Using try-catch blocks (answer)
+
+
+3/5
+
+What does CORS stand for?
+
+a) Cross-Origin Resource Sharing (answer)
+b) Cross-Origin Request Sharing
+c) Cross-Origin Resource Security
+
+
+4/5
+What is the scope of a variable declared with the var keyword?
+a) Global scope
+b) Local scope
+c) Function scope (answer)
+
+
+5/5
+
+Which authentication method does the Fetch API support out of the box?
+
+a) Basic Authentication (answer)
+b) OAuth
+c) JWT Authentication
+
+==============XXX end of Set-10 XXX=================
+
+==============XXX Set-11 XXX=================
+1/5
+Which type of data is commonly streamed with the Fetch API?
+
+a) Audio and video (answer)
+b) JSON and XML
+c) Text and HTML
+
+
+2/5
+What is the default content type of a Fetch API POST request?
+
+a) JSON
+b) Text
+c) Form URL-encoded (answer)
+
+3/5
+const numbers = [1, 2, 3, 4, 5];
+const evenNumbers = numbers.filter(num => num % 2 === 0);
+console.log(evenNumbers);
+The answer is:
+a) [1, 2, 3, 4, 5]
+b) [2, 4] (answer)
+c) [1, 3, 5]
+
+4/5
+const numbers = [1, 2, 3, 4, 5];
+const squaredNumbers = numbers.map(num => num * num);
+console.log(squaredNumbers);
+the answer is:
+a) [1, 2, 3, 4, 5]
+b) [1, 4, 9, 16, 25] (answer)
+c) [2, 4, 6, 8, 10]
+
+5/5
+const numbers = [1, 2, 3, 4, 5];
+const sum = numbers.reduce((acc, num) => acc + num, 0);
+console.log(sum);
+The answer is:
+a) 10
+b) 15 (answer)
+c) 0
+
+
+==============XXX end of Set-11 XXX=================
+
+==============XXX Set-12 XXX=================
+
+1/5
+What happens if the reduce method is called on an empty array without providing an initial value?
+
+a) It throws an error (answer)
+b) It returns undefined
+c) It returns an empty array
+
+2/5
+How can you filter out all the strings longer than 5 characters from an array of strings using filter?
+
+a) arr.filter(str => str.length > 5) (answer)
+b) arr.filter(str => str > 5)
+c) arr.filter(length > 5)
+
+3/5
+
+const str = "JavaScript";
+const index = str.indexOf("Script");
+console.log(index);
+The answer is:
+a) 5
+b) 4 (answer)
+c) -1
+
+4/5
+
+const str = "   Hello World   ";
+const trimmedStr = str.trim();
+console.log(trimmedStr);
+The answer is:
+
+a) " Hello World "
+b) "Hello World" (answer)
+c) "Hello World "
+
+5/5
+
+How can you check if a string contains a specific substring in JavaScript?
+
+a) indexOf() method
+b) includes() method (answer)
+c) regular expressions
+
+==============XXX end of Set-12 XXX=================
+
+==============XXX Set-13 XXX=================
+1/5
+What method is used to convert a string to uppercase in JavaScript?
+
+a) toUpperCase() (answer)
+b) toLowerCase()
+c) toUpper()
+
+2/5
+How can you extract the last 3 characters of a string in JavaScript?
+
+a) str.slice(-3) (answer)
+b) str.substring(-3) 
+c) str.substr(-3) 
+
+3/5
+How do you filter out fruits that start with the letter "a" from the fruits array?
+
+a) fruits.filter(fruit => fruit[0] === "a") (answer)
+b) fruits.find(fruit => fruit[0] === "a")
+c) fruits.map(fruit => fruit[0] === "a")
+
+4/5
+
+How do you sort the fruits array in alphabetical order?
+
+a) fruits.sort()
+b) fruits.sort((a, b) => a - b)
+c) fruits.sort((a, b) => a.localeCompare(b)) (answer)
+
+
+5/5
+
+How do you check if the fruits array contains "banana"?
+
+a) fruits.contains("banana")
+b) fruits.indexOf("banana") !== -1
+c) fruits.includes("banana") (answer)
+
+==============XXX end of Set-13 XXX=================
+
+==============XXX Set-14 XXX=================
+
+1/5
+How do you remove the last element from the fruits array?
+
+a) fruits.pop() (answer)
+b) fruits.shift()
+c) fruits.removeLast()
+
+2/5
+const fruits = ["apple", "banana", "orange"];
+What is the result of fruits.length?
+
+a) 2
+b) 3 (answer)
+c) 4
+
+
+3/5
+const person = {
+  name: "John",
+  age: 30,
+  country: "USA"
+};
+How do you modify the value of the age property to 35?
+
+a) person.age = 35
+b) person["age"] = 35
+c) Both a) and b) (answer)
+
+
+4/5
+const person = {
+  name: "John",
+  age: 30,
+  country: "USA"
+};
+What will person.country return?
+s
+a) "USA"  (answer)
+b) "country"
+c) undefined
+
+
+
+
+
+5/5
+How do you create an empty array in JavaScript?
+
+a) []
+b) new Array()
+c) Both a) and b) (answer)
+
+
+
+
+
+==============XXX end of Set-14 XXX=================
+
+==============XXX Set-15 XXX=================
+
+1/5
+How can you convert the first character of a string to uppercase in JavaScript?
+
+a) Use toUpperCase()
+b) Use charAt() with toUpperCase() (answer)
+c) Use string concatenation
+
+
+2/5
+
+const str = "JavaScript";
+const index = str.indexOf("Script");
+console.log(index);
+The Result is :
+a) 5
+b) 4 (answer)
+c) -1
+
+
+3/5
+
+Which method is used to join all elements of an array into a string?
+
+a) concat()
+b) join() (answer)
+c) merge()
+
+
+4/5
+
+What is the correct syntax for using setTimeout with an anonymous function?
+
+a) setTimeout(function() { ... }, delay) (answer)
+b) setTimeout(delay, function() { ... })
+c) setTimeout(() => { ... }, delay)
+
+
+
+
+
+5/5
+How do you extract elements from index 1 to index 3 (excluding index 3) from an array arr?
+a) arr.extract(1, 3)
+b) arr.slice(1, 3) (answer)
+c) arr.subset(1, 3)
+
+==============XXX end of Set-15 XXX=================
+
+==============XXX Set-16 XXX=================
+1/5
+How do you cancel a setTimeout operation?
+
+a) Use clearTimeout() with the timer ID (answer)
+b) Use stopTimeout() with the timer ID
+c) Use cancelTimeout() with the timer ID
+
+2/5
+What method is used to change the contents of an array by removing or replacing existing elements and/or adding new elements?
+
+a) cut()
+b) modify()
+c) splice() (answer)
+
+
+
+3/5
+What character is used to separate the elements when joining an array into a string using the join() method?
+
+a) Space ( )
+b) Pipe (|)
+c) Comma (,) (answer)
+
+
+
+4/5
+How do you remove the last element from the fruits array?
+a) fruits.pop() (answer)
+b) fruits.shift()
+c) fruits.removeLast()
+
+
+
+5/5
+const str = "JavaScript";
+const substr = str.substring(2, 5);
+console.log(substr);
+The result is:
+a) "Java"
+b) "vas" (answer)
+c) "Script"
+
+==============XXX end of Set-16 XXX=================
+==============XXX Set-17 XXX=================
+1/5
+
+2/5
+
+3/5
+
+
+4/5
+
+
+5/5
+
+
+==============XXX end of Set-17 XXX=================
+
+==============XXX Set-18 XXX=================
+1/5
+
+2/5
+
+3/5
+
+
+4/5
+
+
+5/5
+
+
+==============XXX end of Set-18 XXX=================
+
+
+==============XXX Set-19 XXX=================
+1/5
+
+2/5
+
+3/5
+
+
+4/5
+
+
+5/5
+
+
+==============XXX end of Set-19 XXX=================
+
+
+==============XXX Set-20 XXX=================
+1/5
+
+2/5
+
+3/5
+
+
+4/5
+
+
+5/5
+
+
+==============XXX end of Set-20 XXX=================
