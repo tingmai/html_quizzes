@@ -357,7 +357,7 @@ c) Set the R, G, and B values to 0
 
 5/5
 What does the "S" in HSL stand for?
-a) Saturation
+a) Saturation (answer)
 b) Shade
 c) Strength
 
@@ -400,3 +400,349 @@ Answer: a) <a href="file.txt">Download</a>
 
 ====================xx end of set-10 xxx===============
 
+====================xx set-11 xxx===============
+
+1/5
+Which of the following is the correct way to create a circle with a radius of 50 centered at coordinates (100, 100) in SVG?
+
+a) <circle x="100" y="100" radius="50"/>
+b) <circle cx="100" cy="100" r="50"/> (answer)
+c) <circle x="100" y="100" size="50"/>
+
+2/5
+How can you represent pure red in HSL?
+a) hsl(120, 100%, 50%)
+b) hsl(0, 100%, 50%) (answer)
+c) hsl(0, 0%, 100%)
+
+
+3/5
+In the HSL color model, what does the saturation value of 0% represent?
+a) Fully saturated color
+b) No color at all (grayscale) (answer)
+c) Very bright color
+
+4/5
+Which part of the HSL color model represents the actual color itself?
+a) Hue (answer)
+b) Saturation
+c) Lightness
+
+
+5/5
+How can you specify a color using RGBA in CSS?
+a) rgba(0, 0, 255)
+b) rgba(255, 0, 0)
+c) rgba(255, 0, 0, 0.5) (answer)
+
+====================xx end of set-11 xxx===============
+
+====================xx set-12 xxx===============
+
+1/5
+How many basic color names are supported in HTML?
+a) 8
+b) 16 (answer)
+c) 32
+
+
+2/5
+Which attribute is used to specify the text color in HTML?
+a) color
+b) text-color
+c) font-color
+
+
+3/5
+What is the hexadecimal value for the color black?
+a) #FFF
+b) #000
+c) #FFF000
+
+4/5
+Which of the following is a valid CSS color representation in HTML?
+a) Red
+b) 255,0,0
+c) rgb(255,0,0)
+
+
+5/5
+
+====================xx end of set-12 xxx===============
+
+====================xx set-13 xxx===============
+
+1/5
+What does the hexadecimal color #00FF00 represent?
+a) Blue
+b) Red
+c) Green
+
+2/5
+Which of the following is a valid color keyword in HTML?
+a) Cyan
+b) Magenta
+c) All of the above (answer)
+
+3/5
+Which keyword represents the color with the hexadecimal value #FFA500?
+a) Gold (answer)
+b) Tomato
+c) Salmon
+
+
+4/5
+What is the keyword for the color #800080?
+a) Indigo
+b) Violet
+c) Purple (answer)
+
+5/5
+What does the CSS property "opacity" control?
+a) The sharpness of the text
+b) The brightness of the color
+c) The transparency of the element (answer)
+
+
+====================xx end of set-13 xxx===============
+
+====================xx set-14 xxx===============
+
+1/5
+Which HTML tag is used to define subscript text?
+a) <sup>
+b) <em>
+c) <sub> (answer)
+
+2/5
+What is the default font weight property value in CSS?
+a) bold
+b) normal (answer)
+c) lighter
+
+3/5
+What is the default font family in most web browsers?
+a) Times New Roman
+b) Arial (answer)
+c) Courier New
+
+4/5
+What is the correct syntax for specifying font size using CSS in HTML?
+a) font-size: 12px;
+b) size: 12px;
+c) text-size: 12px; (answer)
+
+5/5
+
+What input type is used to create a checkbox?
+a) check
+b) checkbox (answer)
+c) box
+
+====================xx end of set-14 xxx===============
+
+====================xx set-15 xxx===============
+
+1/5
+What input type creates a range slider?
+a) slider
+b) range (answer)
+c) scroll
+
+2/5
+What input type is used for numeric input?
+a) number (answer)
+b) numeric
+c) digit
+
+3/5
+What input type is used for searching?
+
+a) find
+b) lookup
+c) search (answer)
+
+4/5
+What input type is used to specify a week and year?
+a) week (answer)
+b) month
+c) year
+
+5/5
+Which input type creates a hidden input field?
+a) hide
+b) invisible
+c) hidden (answer)
+====================xx end of set-15 xxx===============
+
+====================xx set-16 xxx===============
+
+1/5
+Which attribute is used to start the numbering in an ordered list from a specific number?
+a) begin
+b) start (answer)
+c) from
+
+2/5
+What tag is used to define each item in a list?
+a) <list>
+b) <li> (answer)
+c) <ul>
+
+3/5
+What tag is used to group related form elements together in HTML5?
+a) <group>
+b) <fieldset> (answer)
+c) <section>
+
+4/5
+How many levels of nesting can you have in HTML lists?
+
+a) Two levels
+b) Three levels
+c) Unlimited levels (answer)
+
+5/5
+What tag is used to embed video content in HTML5?
+a) <video> (answer)
+b) <media>
+c) <movie>
+====================xx end of set-16 xxx===============
+
+====================xx set-17 xxx===============
+
+1/5
+Which tag is used to embed audio content in HTML5?
+a) <audio> (answer)
+b) <sound>
+c) <music>
+
+2/5
+What tag is used to represent a thematic grouping of content in HTML5?
+a) <div>
+b) <group>
+c) <section>(answer)
+
+3/5
+What tag is used to represent a sidebar or additional information in HTML5?
+a) <aside> (answer)
+b) <section>
+c) <sidebar>
+
+4/5
+Which tag is used to define the main content of an HTML5 document?
+a) <body>
+b) <content>
+c) <main> (answer)
+
+5/5
+What tag is used to define a navigation menu in HTML5?
+a) <nav> (answer)
+b) <menu>
+d) <navbar>
+
+====================xx end of set-17 xxx===============
+
+====================xx set-18 xxx===============
+
+1/5
+Which HTML5 tag is used to define a header for a document or a section?
+a) <header> (answer)
+b) <head>
+c) <h1>
+
+2/5
+Which attribute is used to specify the source of multimedia content in HTML5?
+a) src
+b) source (answer)
+c) href
+
+3/5
+Which meta tag is used to specify the character set of the document in HTML5?
+a) <charset>
+b) <meta charset=""> (answer)
+c) <html charset="">
+
+4/5
+Which meta tag is used to specify the title of the document?
+a) <title> (answerr)
+b) <meta title="">
+d) <document title="">
+
+5/5
+
+Which meta tag is used to specify keywords relevant to the content of the document?
+a) <keywords>
+b) <meta keywords="">
+c) <meta name="keywords" content=""> (answer)
+
+====================xx end of set-18 xxx===============
+
+====================xx end of set-19 xxx===============
+1/5
+What tag is used to embed multimedia content from external sources like YouTube?
+a) <multimedia>
+b) <embed>
+c) <iframe> ( answer )
+
+2/5
+Which HTML tag is used to embed images in a webpage?
+a) <img> (answer)
+b) <image>
+c) <picture>
+
+3/5
+What tag is used to represent a quotation in HTML?
+a) <quote>
+b) <blockquote>
+c) <q> (answer)
+
+4/5
+Which tag is used to define a sidebar in HTML?
+a) <sidebar>
+b) <aside> (answer)
+c) <section>
+
+5/5
+What tag is used to define a section in a document?
+a) <div>
+b) <section>(answer)
+c) <area>
+
+
+====================xx end of set-19 xxx===============
+
+====================xx set-20 xxx===============
+1/5
+Which type of HTML element typically allows other elements to be nested inside it?
+a) Inline element
+b) Container element
+c) Block element (answer)
+
+2/5
+Which of the following HTML tags is an example of an inline-block element?
+a) <p>
+b) <div>
+c) <span> (answer)
+
+3/5
+What is the default display property of the <div> tag in CSS?
+a) inline
+b) block (answer)
+c) inline-block
+
+4/5
+What is the default display property of the <div> tag in CSS?
+a) inline
+b) block (answer)
+c) inline-block
+
+5/5
+
+Which HTML tag is used for defining a block-level container?
+a) <div> (answer)
+b) <span>
+c) <p>
+
+
+====================xx end of set-20 xxx===============
