@@ -137,7 +137,7 @@ c) Alphabetical
 Which attribute is used to make a cell span multiple columns in HTML?
 a) rowspan
 b) span
-c) colspan (colspan)
+c) colspan (answer)
 
 4/5
 Which HTML element is used to provide a title or caption for a table?
@@ -148,7 +148,7 @@ c) <caption> (answer)
 5/5
 Which HTML element is used to define a header cell in a table?
 a) <thead>
-b) <th>
+b) <th> (answer)
 c) <td>
 =================xxxx end of Set-4 xxxx===============
 ================xxx Set-5 xxx=====================
