@@ -734,66 +734,139 @@ c) "Script"
 ==============XXX end of Set-16 XXX=================
 ==============XXX Set-17 XXX=================
 1/5
+Which loop construct allows you to specify custom iteration steps?
+a) for loop (answer)
+b) while loop
+c) forEach loop
 
 2/5
+What is the syntax of a JavaScript for loop?
+
+a) for (i = 0; i < condition; i++)
+b) for (i = 0; i < condition)
+c) for (var i = 0; i < condition; i++) (answer)
 
 3/5
-
+In a forEach loop, what parameters does the provided function typically take?
+a) (element, index, array) (answer)
+b) (index, array)
+c) (element, array)
 
 4/5
+Which method returns a new array containing the results of applying a function to each element in the original array?
 
+a) filter()
+b) map() (answer)
+c) reduce()
 
 5/5
-
+How do you declare an array in JavaScript?
+a) var myArray = {}; (answer)
+b) var myArray = [];
+c) array myArray = [];
 
 ==============XXX end of Set-17 XXX=================
 
 ==============XXX Set-18 XXX=================
 1/5
+In JavaScript, inheritance is achieved through ____________.
+a) classes
+b) objects
+c) prototypes (answer)
 
 2/5
+Which method is called automatically when a new instance of a class is created?
+a) init()
+b) create()
+c) constructor() (answer)
 
 3/5
-
+In modern JavaScript, what keyword is used to define a class?
+a) class (answer)
+b) function
+c) constructor
 
 4/5
-
+Which keyword is used to create a new instance of an object in JavaScript?
+a) new (answer)
+b) create
+c) instance
 
 5/5
-
+Which method removes the first element from an array and returns that element?
+a) pop()
+b) remove()
+c) shift() (answer)
 
 ==============XXX end of Set-18 XXX=================
 
 
 ==============XXX Set-19 XXX=================
 1/5
+In JavaScript, objects are collections of ____________.
+a) functions
+c) methods
+d) All of the above (answer)
 
 2/5
+Which object is used to work with regular expressions in JavaScript?
+a) RegExp (answer)
+b) String
+c) Array
 
 3/5
+What character is used to enclose a regular expression pattern in JavaScript?
 
+a) []
+b) ()
+c) / (answer)
 
 4/5
-
+Which JavaScript method is used to test if a string contains a match for a regular expression pattern?
+a) match()
+b) test() (answer)
+c) search()
 
 5/5
-
+Which JavaScript method returns the index of the first occurrence of a pattern in a string?
+a) match()
+b) test()
+c) search() (answer)
 
 ==============XXX end of Set-19 XXX=================
 
 
 ==============XXX Set-20 XXX=================
 1/5
+Which quantifier matches zero or one occurrence of the preceding element in a regular expression?
+a) +
+b) *
+c) ? (answer)
 
 2/5
+Which special character is used to match the start of a line in a regular expression?
+a) ^  (answer)
+b) $
+c) \
 
 3/5
+What is the result of the following lambda expression:
+(x, y) => x * y with parameters x = 3 and y = 4?
 
+a) 7
+b) 12 (answer)
+c) 3
 
 4/5
-
+Which of the following statements is correctly defined?
+a) const add = (x, y) => x + y; (answer)
+b) let add = (x, y) => { x + y; };
+c) function add(x, y) => x + y;
 
 5/5
-
+Which of the following best describes the syntax of a lambda expression in JavaScript?
+a) function (parameters) => expression
+b) (parameters) => { return expression; }  (answer)
+c) function (parameters) { return expression; }
 
 ==============XXX end of Set-20 XXX=================
